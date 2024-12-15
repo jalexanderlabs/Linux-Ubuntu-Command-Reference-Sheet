@@ -4,7 +4,7 @@ ls - lists the contents of a directory or file, and provides other information a
 
 mv - Moves files and can also rename files 
 NOTE: To rename a file you would use the move command 
-* mv example1.txt  useexample2.pdf
+mv example1.txt  useexample2.pdf
 
 cd - shell command that moves the user to a different directory. 
 
@@ -37,5 +37,10 @@ tcpdump - This command is used to capture and analyze network traffic.
 nmap - This command is used to scan and detect open ports on a system or network.
 
 tar - Creates, maintains, modifies, and extracts archive files
+NOTE: with tar, you will often use the ZXVF command (I used this to unzip files in SOC lab)
+z means (un)z̲ip.
+x means ex̲tract files from the archive.
+v means print the filenames v̲erbosely.
+f means the following argument is a f̱ilename.
 
 sudo apt-get update - doesn't actually install new versions of software. Instead, it updates the package lists for upgrades for packages that need upgrading, as well as new packages that have just come to the repositories.
