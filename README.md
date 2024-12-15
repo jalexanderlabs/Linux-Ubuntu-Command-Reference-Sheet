@@ -1,4 +1,12 @@
-Linux Command Reference Sheet
+***Linux Command Reference Sheet***
+
+ls - lists the contents of a directory or file, and provides other information about them.
+
+mv - Moves files and can also rename files 
+NOTE: To rename a file you would use the move command 
+* mv example1.txt  useexample2.pdf
+
+cd - shell command that moves the user to a different directory. 
 
 passwd -	Users can use this command to change their passwords.
 
