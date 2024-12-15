@@ -37,3 +37,5 @@ tcpdump - This command is used to capture and analyze network traffic.
 nmap - This command is used to scan and detect open ports on a system or network.
 
 tar - Creates, maintains, modifies, and extracts archive files
+
+sudo apt-get update - doesn't actually install new versions of software. Instead, it updates the package lists for upgrades for packages that need upgrading, as well as new packages that have just come to the repositories.
